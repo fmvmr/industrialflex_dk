@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+~$*
+.Rproj.user/
+
+# R session files
+.Rhistory
+.Rapp.history
+.RData
+.Rdata
+
+# Large files / regenerable intermediates (not in the repo, see README)
+*.RData
+data/power_sim_checkpoints/
+data/raw_industry*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
