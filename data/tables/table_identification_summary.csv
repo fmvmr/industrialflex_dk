@@ -1,0 +1,4 @@
+"Group","N_industries","Mean_t_cluster","Mean_partial_R2","Mean_RV_q1","N_survive_kd1"
+"Strong identification",9,5.51,0.008651,0.0629,4
+"Borderline identification",8,1.99,0.000925,0.0192,0
+"Weak identification",12,0.45,0.000127,0.0027,0

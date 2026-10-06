@@ -1,0 +1,30 @@
+"Industry","RV_old","Tier_old","t_cluster","RV_new","Tier_new","Reclassified"
+"Consulting services",0.2041,"High",12.83,0.1903,"Strong RF",FALSE
+"Electronics manufacturing",0.0714,"Moderate",-7.23,0.0856,"Strong RF",FALSE
+"Construction",0.1689,"High",6.45,0.0686,"Strong RF",FALSE
+"Social institutions",0.0708,"Moderate",5.17,0.0476,"Strong RF",FALSE
+"Other services",0.0587,"Moderate",4.13,0.0359,"Strong RF",FALSE
+"Travel agencies and operational services",0.1022,"High",4.01,0.0516,"Strong RF",FALSE
+"Telecommunications and IT services",0.0581,"Moderate",-3.32,0.0352,"Strong RF",FALSE
+"Real estate",0.0683,"Moderate",3.24,0.0285,"Strong RF",FALSE
+"Public administration and defence",0.0552,"Moderate",3.2,0.0231,"Strong RF",FALSE
+"Education",0.0235,"Fragile",2.82,0.022,"Moderate RF",TRUE
+"Advertising and business services",0.0414,"Moderate",2.21,0.0159,"Moderate RF",FALSE
+"Machinery manufacturing",0.0258,"Fragile",2.19,0.0229,"Moderate RF",TRUE
+"Transport",0.0416,"Moderate",2.09,0.0196,"Moderate RF",FALSE
+"Food, beverages and tobacco",0.0197,"Fragile",1.98,0.028,"Borderline RF",FALSE
+"Plastics, glass and concrete",0.0037,"Fragile",1.61,0.0228,"Borderline RF",FALSE
+"Healthcare",0.0259,"Fragile",1.54,0.0062,"Borderline RF",FALSE
+"Wood, paper and printing",0,"Fragile",1.5,0.0166,"Borderline RF",FALSE
+"Textiles, leather and furniture",0,"Fragile",1.3,0.0094,"Insignificant RF",FALSE
+"Chemicals, oil refining and pharmaceuticals",4e-04,"Fragile",1.07,0.0143,"Insignificant RF",FALSE
+"Transport equipment manufacturing",0.0059,"Fragile",0.83,0.0045,"Insignificant RF",FALSE
+"Metal manufacturing",0,"Fragile",0.83,0.0046,"Insignificant RF",FALSE
+"Publishing, TV and radio",0.0118,"Fragile",0.31,0,"Insignificant RF",FALSE
+"Research and development",0.0032,"Fragile",0.3,0,"Insignificant RF",FALSE
+"Agriculture, forestry and fishing",0.0398,"Moderate",-0.22,0,"Insignificant RF",TRUE
+"Finance and insurance",0.0204,"Fragile",0.18,0,"Insignificant RF",FALSE
+"Trade",0.0046,"Fragile",-0.15,0,"Insignificant RF",FALSE
+"Hotels and restaurants",0,"Fragile",-0.11,0,"Insignificant RF",FALSE
+"Culture and recreation",0.0166,"Fragile",-0.06,0,"Insignificant RF",FALSE
+"Electrical equipment manufacturing",0.0028,"Fragile",0.01,0,"Insignificant RF",FALSE
